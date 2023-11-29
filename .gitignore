@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/EPMA.EMP.Console.API
+/EPMA.EMP.Console.API/bin/Debug/net6.0
+/EPMA.EMP.Console.API/obj
+/.vs/ProjectEvaluation
+/SPA/node_modules
+/API/ToDoListAPI/bin
+/API/ToDoListAPI/obj
+/API/ToDoListAPI.Tests/bin
+/API/ToDoListAPI.Tests/obj
